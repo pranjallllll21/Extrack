@@ -3,8 +3,6 @@
 ExTrack is a **Finance Dashboard Application** built using the **MERN stack** with **Machine Learning powered predictions**.  
 It helps track **revenue, expenses, profit & loss** and provides **insights through interactive charts**.  
 
-![Dashboard Preview](d8731e0c-3afd-4219-8810-d0904554e8f1.png)  
-
 ---
 
 ## 🚀 Features  
